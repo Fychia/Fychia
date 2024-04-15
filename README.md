@@ -5,7 +5,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Rafael de Assis Valério"
