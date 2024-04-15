@@ -1,7 +1,5 @@
 # Hello there 👋
 
----
-
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -21,3 +19,5 @@ class SoftwareEngineer:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
+
+---
