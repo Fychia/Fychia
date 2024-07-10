@@ -20,4 +20,11 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
+## ⚡ Technologies
+
+![Data Bricks](https://img.shields.io/badge/DataBricks)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+<hr>
 ---
